@@ -1,0 +1,159 @@
+@import "public";
+
+
+// header
+header{
+    width: 100%; height: 30px; background: #f7f7f7; 
+    .top{
+        width: 990px; height: 30px; margin: 0 auto; line-height: 30px; font-size: 12px;
+        .top1{
+            float: left;
+            i{
+                font-size: 12px; color: #edae00; margin-right: 4px; display: inline-block;
+            }
+        }
+        .top2{
+            float: right;
+            span{
+                a{
+                    margin: 0 8px; display: inline-block;
+                }
+                a:hover{
+                    color: red;
+                }
+            }
+        }
+    }
+}
+///  hea
+.he{
+    width: 990px;height: 70px; margin: 0 auto; background: #f2f2f2; padding-top: 10px;
+    div{
+        width: 200px; height: 60px; border-right: 1px solid #ccc; float: left; padding-right: 30px;
+        img{
+            width: 200px; height: 60px;
+        }
+    }    
+    span{
+        width: 116px; height: 46px; font-size: 24px;float: left; padding-left: 30px; line-height: 60px; font-weight: 600;
+    }
+}
+//  h2
+.h2_{
+    width: 990px; height: 33px; margin: 0 auto; 
+    h2{
+        
+        span{
+            float: right; font-size: 12px; padding-top: 15px;
+            a{
+                color: #46667d; display: inline-block; margin-left: 4px;
+            }
+            a:hover{
+                text-decoration: underline;
+            }
+        }
+    }    
+}
+//main
+.main{
+    width: 990px; height: 594px; margin: 0 auto; padding: 30px 0 20px; border: 1px solid #ddd; background: #fff;
+    .inp{
+        width: 900px; margin: 30px auto;
+        .inp_1{
+            height: 60px; padding-top: 9px; line-height: 34px; font-size: 12px;  margin-left: 50px;
+            span{
+                float: left; color: #cbcbcd;
+                i{
+                    margin-right: 5px; color: #b34b52; font-size: 16px;
+                }
+            }
+            .inp_1_div{
+                float: left; width: 268px; height: 36px; border: 1px solid #ccc; background: #fff; margin-left: 10px;
+                input{
+                    margin-top: 10px; float: left; border: none; margin-left: 10px;
+                }
+                i{
+                    float: right; margin-right: 10px; color: #ccc;
+                }
+                .icon-suozi{
+                    font-size: 26px;
+                }               
+            }
+            .inp_tuxing{
+                width: 130px; height: 36px; border: 1px solid #ccc; margin-left: 18px; padding-left: 10px; float: left;
+            }
+            .input_yanzheng{
+                margin-left: 10px; float: left;
+            }
+            .random_{
+                width: 98px; height: 36px; background: #eafde1; float: left;  font-size: 16px; font-weight: 600; text-align: center; line-height: 38px; border: 1px solid #ccc; margin-left: 10px;
+            }
+            .yanzheng_{
+                width: 98px; height: 36px; background: #eafde1; float: left;  font-size: 12px; text-align: center; line-height: 38px; border: 1px solid #ccc; margin-left: 10px;
+            }
+            .dianji_{
+                width: 258px; height: 36px; border: 1px solid #4C5A5F; float: right; padding-left: 10px; margin-right: 215px; background: #C9BFB3; display: none;
+                span{
+                    color: #111111;
+                }
+            }
+            .dianji_2{
+                width: 258px; height: 36px; border: 1px solid #F42909; float: right; padding-left: 10px; margin-right: 215px; background: #FFBDBF;
+                span{
+                    color: #DF5000;
+                }
+            }
+            .dianji_1{
+                width: 258px; height: 36px; border: 1px solid #4C5A5F; float: right; padding-left: 10px; margin-right: 215px; line-height: 18px;
+            }
+        }
+        
+    }
+    .tongyi_{
+        margin: 30px 0 35px 180px; font-size: 12px; width: 204px; height: 34px;
+        input{
+            margin-right: 5px;
+        }
+    }
+    .denglu_{
+        width: 270px; height: 36px; margin-left: 180px;
+        input{
+            width: 100%; height: 100%; border: none; background: #e33e45; color: #fff; font-size: 20px; text-align: center; line-height: 36px; cursor: pointer;
+        } 
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//       bottom
+.bottom{
+    text-align: center; width: 100%; margin-top: 10px; margin-bottom: 30px; font-size: 12px;
+    p{
+        color: #9ea09b;
+        span{
+            color: #585858;
+        }
+    }
+}
+
+
+
+
+
+
